@@ -19,7 +19,7 @@ int add(x,y)
 
 int mult(x,y)
 {
-    int pro==x*y;
+    int pro=x*y;
     return pro;
 }
 
